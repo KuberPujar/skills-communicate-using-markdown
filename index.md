@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Merge this pull request with main branch
+- [ ] get approved by code owners
+- [ ] Make other md changes in index.md file
